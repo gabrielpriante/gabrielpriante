@@ -1,4 +1,4 @@
-# Hi there, I'm Gabriel Priante 👋
+# Hi there, I'm Gabriel Penedo Priante 👋
 
 I am currently a Master of Quantitative Economics student at the University of Pittsburgh. My academic journey has given me a strong foundation in economic theory, quantitative research, and data analytics. I am passionate about applying these skills to solve real-world problems and continually seek opportunities to learn and grow.
 
