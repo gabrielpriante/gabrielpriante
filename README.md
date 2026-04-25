@@ -1,4 +1,4 @@
-# Gabriel Penedo Priante
+# Gabriel Penedo
 
 **M.S. Quantitative Economics** · University of Pittsburgh (May 2026)  
 **B.S. Economics** · University of Pittsburgh (April 2024)
