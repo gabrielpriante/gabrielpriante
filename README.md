@@ -5,7 +5,7 @@
 
 Applied data scientist and environmental economist working at the intersection of quantitative methods, geospatial analysis, and sustainability. Currently building data infrastructure for environmental organizations in Pittsburgh and publishing original research on green finance and climate policy.
 
-**[LinkedIn](https://www.linkedin.com/in/gpps)** · **[EnviroEcon.com](https://enviroecon.com/)** · gps26@pitt.edu
+**[LinkedIn](https://www.linkedin.com/in/gpps)** · **[EnviroEcon.com](https://enviroecon.com/)** · gps26@pitt.edu · **[Portfolio]((https://gabrielpriante.github.io/))**
 
 ---
 
