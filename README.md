@@ -1,6 +1,6 @@
 # Gabriel Penedo
 
-**M.S. Quantitative Economics** · University of Pittsburgh (May 2026)  
+**M.S. Quantitative Economics** · University of Pittsburgh (April 2026)  
 **B.S. Economics** · University of Pittsburgh (April 2024)
 
 Applied data scientist and environmental economist working at the intersection of quantitative methods, geospatial analysis, and sustainability. Currently building data infrastructure for environmental organizations in Pittsburgh and publishing original research on green finance and climate policy.
@@ -70,7 +70,7 @@ Weekly publication analyzing the intersection of economics and environmental pol
 
 ## Education
 
-**M.S. Quantitative Economics** · University of Pittsburgh · GPA: 3.50 · May 2026  
+**M.S. Quantitative Economics** · University of Pittsburgh · GPA: 3.50 · April 2026  
 **B.S. Economics** · University of Pittsburgh · Major GPA: 3.70 · April 2024
 
 ---
