@@ -36,10 +36,10 @@ Spatial analysis quantifying the overlap between LEED-certified buildings, Justi
 ## Current Roles
 
 **GIS Analyst Intern** · UpstreamPGH (April 2026 – Present)  
-Pulling public environmental data, applying multivariate methods and cGAN research combined with GLMs for explainable modeling. Implemented Git workflow across the data science department.
+Supporting GIS mapping and spatial analysis on a 10-month collaboration with Mon Water Project and Civic Mapper. Contributing to a public-facing environmental education tool for the City of Pittsburgh using proprietary methods for spatial storytelling and community engagement.
 
 **Applied Data Scientist & Project Lead** · Frontline Gig (December 2025 – Present)  
-Leading drone-based environmental data collection, partnering on a multi-million dollar PennDOT project. Built ML algorithms for inspection site detection. Established three cross-sector partnerships spanning academia, green construction, and environmental policy.
+Applied Data Scientist and Project Lead supporting neighborhood inspection, greening, and geospatial data initiatives across Pittsburgh. Built executive-facing maps and dashboards in ArcGIS Online, streamlined inspection-to-311 reporting pipelines, and developed a drone-based tree inventory pipeline using OpenDroneMap, DeepForest, and GeoPandas. Engaging with City of Pittsburgh officials and university partners to expand organizational capabilities.
 
 **Data Consultant** · University of Pittsburgh SHRS (January 2026 – Present)  
 Built the organization's first data-driven decision-making system. End-to-end dashboard combining external, internal, and derived datasets, with UI optimized directly for stakeholder needs.
