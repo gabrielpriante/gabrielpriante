@@ -41,11 +41,11 @@ Supporting GIS mapping and spatial analysis on a 10-month collaboration with Mon
 **Applied Data Scientist & Project Lead** · Frontline Gig (December 2025 – Present)  
 Applied Data Scientist and Project Lead supporting neighborhood inspection, greening, and geospatial data initiatives across Pittsburgh. Built executive-facing maps and dashboards in ArcGIS Online, streamlined inspection-to-311 reporting pipelines, and developed a drone-based tree inventory pipeline using OpenDroneMap, DeepForest, and GeoPandas. Engaging with City of Pittsburgh officials and university partners to expand organizational capabilities.
 
-**Data Consultant** · University of Pittsburgh SHRS (January 2026 – Present)  
-Built the organization's first data-driven decision-making system. End-to-end dashboard combining external, internal, and derived datasets, with UI optimized directly for stakeholder needs.
-
 **Founder** · Priante LLC / [EnviroEcon.com](https://enviroecon.com/) (June 2025 – Present)  
 Weekly publication analyzing the intersection of economics and environmental policy. Translating complex research into actionable insights for businesses and individuals.
+
+**Data Consultant** · University of Pittsburgh SHRS (January 2026 – April 2026)  
+Built the organization's first data-driven decision-making system. End-to-end dashboard combining external, internal, and derived datasets, with UI optimized directly for stakeholder needs.
 
 ---
 
@@ -64,7 +64,7 @@ Weekly publication analyzing the intersection of economics and environmental pol
 
 **LEED Green Associate** · U.S. Green Building Council (March 2026)  
 **Google Advanced Data Analytics Specialization** · Coursera (January 2025)  
-**FAA Part 107 Remote Pilot** · Exam scheduled May 2026
+**FAA Part 107 Remote Pilot** ·  May 2026
 
 ---
 
