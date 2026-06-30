@@ -1,5 +1,5 @@
 # Gabriel Penedo
-https://drive.google.com/drive/folders/1NRoTilBuOIL3sltmDyGcSemn9xrw_BOs?usp=share_link
+
 **M.S. Quantitative Economics** · University of Pittsburgh (April 2026)  
 **B.S. Economics** · University of Pittsburgh (April 2024)
 
