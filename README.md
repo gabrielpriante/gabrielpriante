@@ -1,8 +1,5 @@
 # Gabriel Penedo
 
-**M.S.** · University of Pittsburgh (April 2026)  
-**B.S.** · University of Pittsburgh (April 2024)
-
 Applied data scientist and environmental economist working at the intersection of quantitative methods, geospatial analysis, and sustainability. Currently building data infrastructure for environmental organizations in Pittsburgh and publishing original research on green finance and climate policy.
 
 **[LinkedIn](https://www.linkedin.com/in/gpps)** · **[EnviroEcon.com](https://enviroecon.com/)** · **[Portfolio](https://gabrielpriante.github.io/)** · gps26@pitt.edu
@@ -65,13 +62,6 @@ Built the organization's first data-driven decision-making system. End-to-end da
 **LEED Green Associate** · U.S. Green Building Council (March 2026)  
 **Google Advanced Data Analytics Specialization** · Coursera (January 2025)  
 **FAA Part 107 Remote Pilot** ·  May 2026
-
----
-
-## Education
-
-**M.S. Quantitative Economics** · University of Pittsburgh · GPA: 3.50 · April 2026  
-**B.S. Economics** · University of Pittsburgh · Major GPA: 3.70 · April 2024
 
 ---
 
