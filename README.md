@@ -1,70 +1,70 @@
+<div align="center">
+
 # Gabriel Penedo
 
-Applied data scientist and environmental economist working at the intersection of quantitative methods, geospatial analysis, and sustainability. Currently building data infrastructure for environmental organizations in Pittsburgh and publishing original research on green finance and climate policy.
+**Environmental Computing · Machine Learning · Geospatial Systems**
 
-**[LinkedIn](https://www.linkedin.com/in/gpps)** · **[EnviroEcon.com](https://enviroecon.com/)** · **[Portfolio](https://gabrielpriante.github.io/)** · gps26@pitt.edu
+</div>
 
----
+I am an environmental computing researcher with training in quantitative economics. My work examines how machine learning, geospatial systems, remote sensing, and field-generated data can be used to understand environmental systems and support real-world decision-making.
 
-## What I Do
+My current research focuses on the reliability of environmental AI, particularly how sensing conditions, preprocessing decisions, human data collection, and implementation choices influence what computational systems ultimately observe and report.
 
-I use econometrics, machine learning, and GIS to make environmental and economic data actionable. My work spans drone-based environmental surveying, interactive dashboards for institutional decision-making, and spatial analysis of climate finance flows. I care about building things that help organizations make better decisions about sustainability, infrastructure, and resource allocation.
-
-**2026 Pitt Sustainability Champion** · [Award Page](https://www.sustainable.pitt.edu/get-involved/pitt-sustainability-awards/2026-pitt-sustainability-awardees)
+[Website](https://gabrielpenedo.com) · [CV](https://gabrielpenedo.com/cv) · [LinkedIn](https://www.linkedin.com/in/gpps) · [ORCID](https://orcid.org/0009-0009-2802-2483)
 
 ---
 
-## Featured Projects
+## Current Research
 
-### [Global Green Bond Tracker](https://github.com/gabrielpriante/green-bond-tracker-project)
-An interactive ArcGIS web map tracking green bond issuance across 114 countries, overlaid with the carbon footprint of bank lending portfolios. Merges four international datasets (World Bank, IMF, Climate Bonds Initiative) through a reproducible R pipeline into a single map-ready layer. Reveals where climate finance is flowing, and where the gaps are.  
-**Tools:** R, tidyverse, ArcGIS Pro/Online · **[Live Map](https://arcg.is/8D4mP0)**
+I am currently working with [Dr. Kala Fleming](https://www.linkedin.com/in/kalafleming/) and [Dr. Elizabeth Ondula](https://www.linkedin.com/in/elizabeth-ondula/) on three interrelated projects spanning environmental computer vision, field-grounded AI, and geospatial decision systems.
 
-### [Program Health Dashboard](https://github.com/gabrielpriante/MQE-Capstone)
-Config-driven, multi-domain scoring dashboard built as my MQE capstone. Scores and ranks academic programs across demand, institutional, and financial domains using BLS projections, IPEDS data, and internal enrollment/financial metrics. Designed around a "sacred wall" architecture: YAML config drives a Python pipeline that outputs a single JSON file consumed by an R Shiny frontend. Either side can be replaced independently.  
-**Tools:** R Shiny, Python, YAML, plotly, bslib
+### Sliding-Window Instability in Environmental Object Detection
 
-### [Spatial Analysis: LEED, Justice 40, and Frontline Organizations](https://github.com/gabrielpriante/gis_spatial_analysis)
-Spatial analysis quantifying the overlap between LEED-certified buildings, Justice 40 designated neighborhoods, vacant lots, and frontline community organizations in Pittsburgh. Performed spatial joins and pairwise distance calculations across four geospatial layers projected to PA State Plane. Found that only 19% of LEED buildings sit within Justice 40 areas, with Mon Valley communities significantly more isolated from green building infrastructure.  
-**Tools:** R, sf, ggplot2, ArcGIS REST API
+Studying how the origin of a sliding-window inference grid affects individual tree-crown detections while tile size, overlap, and model configuration remain fixed. The work examines reproducibility and implementation sensitivity in environmental object detection.
 
----
+### Field-Grounded Environmental AI
 
-## Current Roles
+Investigating how field observations, structured annotations, drone imagery, and physical interventions can reduce ambiguity in environmental computer-vision workflows and produce more reliable inputs for machine-learning systems.
 
-**GIS Analyst Intern** · UpstreamPGH (April 2026 – Present)  
-Supporting GIS mapping and spatial analysis on a 10-month collaboration with Mon Water Project and Civic Mapper. Contributing to a public-facing environmental education tool for the City of Pittsburgh using proprietary methods for spatial storytelling and community engagement.
+### Geospatial Decision Systems for Green Infrastructure
 
-**Applied Data Scientist & Project Lead** · Frontline Gig (December 2025 – Present)  
-Applied Data Scientist and Project Lead supporting neighborhood inspection, greening, and geospatial data initiatives across Pittsburgh. Built executive-facing maps and dashboards in ArcGIS Online, streamlined inspection-to-311 reporting pipelines, and developed a drone-based tree inventory pipeline using OpenDroneMap, DeepForest, and GeoPandas. Engaging with City of Pittsburgh officials and university partners to expand organizational capabilities.
+Developing spatial data systems that integrate environmental, infrastructure, and community datasets to support green stormwater infrastructure analysis and real-world decision-making.
 
-**Founder** · Priante LLC / [EnviroEcon.com](https://enviroecon.com/) (June 2025 – Present)  
-Weekly publication analyzing the intersection of economics and environmental policy. Translating complex research into actionable insights for businesses and individuals.
-
-**Data Consultant** · University of Pittsburgh SHRS (January 2026 – April 2026)  
-Built the organization's first data-driven decision-making system. End-to-end dashboard combining external, internal, and derived datasets, with UI optimized directly for stakeholder needs.
+<sub>These projects are ongoing.</sub>
 
 ---
 
-## Technical Skills
+## Selected Technical Work
 
-**Languages:** Python, R, C++, SQL, C  
-**Geospatial:** ArcGIS Pro/Online, ModelBuilder, OpenDroneMap, DeepForest, GeoPandas, sf  
-**Data & ML:** Tableau, Jupyter, pandas, tidyverse, plotly, Shiny, scikit-learn  
-**Cloud & DevOps:** AWS, Azure, Git, GitHub  
-**Web:** HTML, CSS, API integration, LLM integration  
-**Other:** Microsoft Excel, YAML config architecture
+### Program Health Decision System | University of Pittsburgh SHRS
+
+A configurable decision-support system combining federal labor-market data, institutional data, scoring logic, and an interactive R Shiny interface to evaluate academic programs across demand, institutional, and financial dimensions.
+
+| Layer | Implementation |
+| --- | --- |
+| Ingestion | 11 federal data sources, 30+ institutional files |
+| Extraction | 13 modular clients |
+| Configuration | YAML-driven scoring weights and data mappings |
+| Pipeline | Python |
+| Interface | Decoupled JSON contract between pipeline and frontend |
+| Frontend | R Shiny, Plotly |
+| Delivery | Stakeholder documentation and handoff |
+
+`Python` `R Shiny` `YAML` `Plotly` `BLS` `OEWS` `IPEDS` `O*NET`
+
+**Repository:** [gabrielpriante/MQE-Capstone](https://github.com/gabrielpriante/MQE-Capstone)
 
 ---
 
-## Certifications
+## Current Work
 
-**LEED Green Associate** · U.S. Green Building Council (March 2026)  
-**Google Advanced Data Analytics Specialization** · Coursera (January 2025)  
-**FAA Part 107 Remote Pilot** ·  May 2026
+| Organization | Role | Focus |
+| --- | --- | --- |
+| Frontline Gig / Frontline Labs | Applied Data Scientist & Project Lead | Environmental AI, field research, geospatial systems |
+| UpstreamPGH | GIS Analyst Intern | Environmental GIS, green infrastructure, decision systems |
 
 ---
 
-## Beyond Work
+## Methods & Tools
 
-Soccer is my sport. AC Milan and PSG. Portuguese speaker. Always open to connecting with others working in economics, analytics, sustainability, or climate tech.
+`Python` `R` `SQL` `ArcGIS Pro` `GeoPandas` `OpenDroneMap` `DeepForest` `scikit-learn` `R Shiny` `Git`
