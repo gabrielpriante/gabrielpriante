@@ -2,7 +2,7 @@
 
 # Gabriel Penedo
 
-**Environmental Computing · Machine Learning · Geospatial Systems**
+**Community Computing · Machine Learning · Geospatial Systems**
 
 </div>
 
