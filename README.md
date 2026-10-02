@@ -2,7 +2,7 @@
 
 # Gabriel Penedo
 
-**Community Computing · Machine Learning · Geospatial Systems**
+**Community Computing · Machine Learning · Geospatial Systems · Computer Vision**
 
 </div>
 
