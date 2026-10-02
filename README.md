@@ -60,7 +60,7 @@ A configurable decision-support system combining federal labor-market data, inst
 
 | Organization | Role | Focus |
 | --- | --- | --- |
-| Frontline Gig / Frontline Labs | Lab Manager & Data Scientist | AI, field research, geospatial systems |
+| Frontline Gig / Frontline Labs | Lab Manager & Data Scientist | Human-Centered AI, field research, geospatial systems |
 | UpstreamPGH | GIS Analyst Intern | Environmental GIS, green infrastructure, decision systems |
 
 ---
